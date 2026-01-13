@@ -9,7 +9,7 @@ using namespace std;
 // @lc code=start
 
 //Using Binary Search
-class Solution {
+/*class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         for(int i=0;i<numbers.size();i++){
@@ -19,7 +19,7 @@ public:
         }
         return {-1, -1};
     }
-};
+};*/
 
 // Using Two Pointers
 class Solution {
